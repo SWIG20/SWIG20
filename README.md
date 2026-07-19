@@ -15,11 +15,17 @@ Everything published here is based on original work, public documentation, open-
 
 ## Current Focus
 
-- Digital Forensics (DFIR)
-- Incident Response
-- Threat Hunting
-- Detection Engineering
-- Security Automation
+**Digital Forensics**
+- Windows artifacts
+- Timeline analysis
+- Evidence handling
+
+**Detection Engineering**
+- Sigma
+- YARA
+- Detection logic
+
+**Automation**
 - Python
 - PowerShell
 
@@ -42,6 +48,13 @@ Coming Soon:
 ## Why This GitHub Exists
 
 This GitHub documents my journey as I continue developing practical cybersecurity tools, research, and educational resources. Every repository represents an opportunity to learn, build, and contribute back to the security community.
+
+---
+## Learning in Public
+
+I believe one of the best ways to master a technical subject is to build, document, and share what you learn.
+
+This GitHub reflects that philosophy.
 
 ---
 
